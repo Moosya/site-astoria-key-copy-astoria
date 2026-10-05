@@ -1,0 +1,27 @@
+{
+  "shopName": "Astoria Key Copy & Locksmith Service",
+  "tagline": "Keys, locks, and copies on Broadway in Astoria",
+  "phone": "(718) 607-2753",
+  "address": "42-20 Broadway, Astoria, NY 11103",
+  "hours": "Call or visit for hours",
+  "photoUrl": "/hero.jpg",
+  "services": [
+    {
+      "name": "Keys & locks",
+      "description": "Key cutting and lock help for homes and small businesses."
+    },
+    {
+      "name": "Copies",
+      "description": "Document copies when you need them."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by on Broadway."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "astoria-key-copy-astoria",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
