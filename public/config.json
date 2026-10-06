@@ -4,7 +4,7 @@
   "phone": "(718) 607-2753",
   "address": "42-20 Broadway, Astoria, NY 11103",
   "hours": "Call or visit for hours",
-  "photoUrl": "/hero.jpg",
+  "photoUrl": "hero.jpg",
   "services": [
     {
       "name": "Keys & locks",
